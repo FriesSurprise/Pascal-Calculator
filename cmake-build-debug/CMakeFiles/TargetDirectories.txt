@@ -1,0 +1,3 @@
+D:/Clion/Pascal Calculator/cmake-build-debug/CMakeFiles/Pascal_Calculator.dir
+D:/Clion/Pascal Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Clion/Pascal Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
